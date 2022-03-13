@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
-  main - Entr  point
- -
+ * main - Entr  point
+ *
  *  Return: Always 0 (Success)
  */
 int  main(void)
